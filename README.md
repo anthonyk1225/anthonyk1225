@@ -8,4 +8,8 @@
 
 # 🚨 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Form building with recursion](https://keatinganthony.com/recursion/)
+- [Candid Digs](https://keatinganthony.com/candiddigs/)
+- [Insights with D3](https://keatinganthony.com/d3/)
+- [Crossfit1939](https://keatinganthony.com/crossfit1939/)
 <!-- BLOG-POST-LIST:END -->
