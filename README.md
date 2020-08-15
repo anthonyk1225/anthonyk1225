@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on a swift or C# iOS app
 - ⚡ Fun fact: I enjoy traveling and have been very slowly trying to learn [にほんご](https://www.japansociety.org/)
 
-# Blog posts
+# 🚨 Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
