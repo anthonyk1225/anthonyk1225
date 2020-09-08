@@ -1,10 +1,11 @@
 ### Hi there, I'm [Anthony](https://keatinganthony.com) 👋
 
 
-- 🔭 I’m currently implementing a [front end microservice environment](https://bit.dev)
-- 🌱 I’m currently learning [more CS fundamentals](https://cs50.harvard.edu) and Lua w/ [Love](https://love2d.org/wiki/Main_Page)
+- 🔭 I’m currently architecting a [front end microservice](https://bit.dev)
+- 🌱 I’m currently learning [more CS fundamentals](https://cs50.harvard.edu)
+- 🤖 I’m having fun w/ Lua on [Love](https://love2d.org/wiki/Main_Page) to make 2d side scrollers
 - 👯 I’m looking to collaborate on a swift iOS app
-- ⚡ Fun fact: I enjoy traveling and have been very slowly trying to learn [にほんご](https://www.japansociety.org/)
+- ⚡ Fun fact: I enjoy traveling and have been very slowly learning [にほんご](https://www.japansociety.org/)
 
 # 🚨 Blog posts
 <!-- BLOG-POST-LIST:START -->
