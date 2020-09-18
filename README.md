@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently architecting a [front end microservice](https://bit.dev)
-- 🌱 I’m currently learning [more CS fundamentals](https://cs50.harvard.edu)
-- 🤖 I’m having fun w/ Lua on [Love](https://love2d.org/wiki/Main_Page) to make 2d side scrollers
-- 👯 I’m looking to collaborate on a swift iOS app
+- 🌱 I just finished brushing up on [some CS fundamentals](https://cs50.harvard.edu)
+- 🤖 I’m learning Lua and [Love](https://love2d.org/wiki/Main_Page) to make a 2d side scroller
+- 👯 I’m also learning swift and looking to collaborate on an iOS app
 - ⚡ Fun fact: I enjoy traveling and have been very slowly learning [にほんご](https://www.japansociety.org/)
 
 # 🚨 Blog posts
