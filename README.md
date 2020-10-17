@@ -9,6 +9,7 @@
 
 # 🚨 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ricochet](https://keatinganthony.com/ricochet/)
 - [Form building with recursion](https://keatinganthony.com/recursion/)
 - [Candid Digs](https://keatinganthony.com/candiddigs/)
 - [Insights with D3](https://keatinganthony.com/d3/)
