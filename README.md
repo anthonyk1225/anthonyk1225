@@ -1,7 +1,7 @@
 ### Hi there, I'm [Anthony](https://keatinganthony.com) 👋
 
 
-- 🔭 I'm a Senior Front-end developer
+- 🔭 I'm a Full-stack developer
 - 🌱 I might be changing my mind on typescript
 - 🤖 I just finished a 2D platform game using [Lua and Löve](https://github.com/anthonyk1225/ricochet)
 - 👯 I’m learning swift and looking to collaborate on an iOS app
