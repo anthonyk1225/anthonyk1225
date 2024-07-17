@@ -2,7 +2,6 @@
 
 
 - 🔭 I'm a Front End Software Engineer
-- 🤖 Interested in Web 3.0, DeFi
 
 # 🚨 Blog posts
 <!-- BLOG-POST-LIST:START -->
